@@ -1,6 +1,4 @@
-Use this **final, clean README**. It includes everything: refined insights, correct visuals, and dashboard interaction section.
 
----
 
 # 📊 Bank Customer Churn Analysis (Excel + Power Query + Power Pivot)
 
@@ -203,3 +201,4 @@ Retention efforts should focus on:
 * increasing product adoption
 * protecting high-value customers
 
+ 
